@@ -1,6 +1,9 @@
-//  https://medium.com/@ryanfinni/the-intersection-observer-api-practical-examples-7844dfa429e9
+// EXAMPLES:
+// https://medium.com/@ryanfinni/the-intersection-observer-api-practical-examples-7844dfa429e9
+// https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/
 
-// DOCS: https://developer.mozilla.org/ru/docs/Web/API/Intersection_Observer_API
+// DOCS:
+// https://developer.mozilla.org/ru/docs/Web/API/Intersection_Observer_API
 
 class UnsplashAPI {
   #BASE_URL = 'https://api.unsplash.com/search/photos';
